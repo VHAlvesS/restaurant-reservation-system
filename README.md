@@ -1,8 +1,8 @@
-# Restaurant Reservation System 🍽️
+# Restaurant Reservation System
 
 Este é um sistema de reservas para restaurante desenvolvido com **Java + Spring Boot**, com suporte a operações **CRUD** para gerenciar mesas e reservas. Ideal para gerenciar horários e organizar os atendimentos em um restaurante.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 - Criar, listar, editar e excluir **reservas**
 - Criar, listar e excluir **mesas**
