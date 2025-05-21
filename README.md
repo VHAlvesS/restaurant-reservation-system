@@ -17,16 +17,6 @@ Este é um sistema de reservas para restaurante desenvolvido com **Java + Spring
 - Spring Data JPA
 - MySQL
 - Maven
-- Postman (para testes)
-
-## Estrutura do Projeto
-
-reservas-system/
-├── src/
-├── pom.xml
-├── .gitignore
-└── README.md
-
 
 ## Configuração
 
@@ -39,6 +29,7 @@ spring.datasource.password=sua_senha
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 server.port=8080
+```
 
 ## Como rodar o projeto
 
@@ -58,4 +49,4 @@ server.port=8080
 - DELETE /tables/{id}
 
 ## Autor
-Vitor [https://www.linkedin.com/in/vitorhasantos/]
+Vitor [Meu LinkedIn](https://www.linkedin.com/in/vitorhasantos/)
